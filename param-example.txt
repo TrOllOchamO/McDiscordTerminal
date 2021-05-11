@@ -1,0 +1,12 @@
+token=ODI5MjU5MTawNTY5OTkyMjMy.YG7WVQ.aTKTmo-nhkxfklKBeRfsDe7TEDY
+
+user_name=pi
+
+id_channel_terminal=829773516085143358
+id_message_terminal=830023434460300975
+
+screen_minecraft_session_name=serveur-minecraft
+screen_shell_session_name=bot-serveur
+
+path_to_your_minecraft_server_file=/home/pi/minecraft
+server_start_command=java -Xms2500M -Xmx2500M -jar /home/pi/minecraft/spigot-1.16.5.jar nogui
