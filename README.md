@@ -27,7 +27,7 @@ Theoretically you can download [McDiscordTerminal](https://github.com/TrOllOcham
 
 #### 3) Initialize
 
-To display the terminal in your discord channel, [McDiscordTerminal](https://github.com/TrOllOchamO/McDiscordTerminal) simply edits an existing message. This means that in order to start displaying stuff, you'll need the bot to send a message first so it can edit it later.\
+To display the terminal in your discord channel, [McDiscordTerminal](https://github.com/TrOllOchamO/McDiscordTerminal) simply edits an existing message. This means that in order to start displaying stuff, you'll need the bot to send a message first so it can edit it later.
 
 In order to do that, you first need to edit the ``param.txt`` text file, add the token of your bot and the channel id in which you want your minecraft terminal. You can check the [param-example.txt](./param-example.txt).\
 Don't forget to [invite your bot](https://discordpy.readthedocs.io/en/stable/discord.html#inviting-your-bot) on your server.
