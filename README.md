@@ -5,14 +5,14 @@ A way to interact with your minecraft server terminal from discord
 
 Once installed simply go to your terminal discod channel and type yours commands directly in the chat like this :
 
-![minecraft-step1](./Lib/images/command-minecraft-1.png) ![minecraft-step2](./Lib/images/command-minecraft-1.png)\
-![shell-step1](./Lib/images/command-shell-1.png) ![shell-step1](./Lib/images/command-shell-1.png)
-
 #### there is 4 commands :  
 ``!m [your minecraft command]``\
 ``!s [your shell command]``\
 ``!tm`` *simply display the minecraft terminal*\
 ``!ts`` *simply display the shell terminal*
+
+[<img src="./Lib/images/command-minecraft-1.png" width="300"/>](./Lib/images/command-minecraft-1.png) [<img src="./Lib/images/command-minecraft-2.png" width="300"/>](./Lib/images/command-minecraft-2.png)\
+[<img src="./Lib/images/command-shell-1.png" width="300"/>](./Lib/images/command-shell-1.png) [<img src="./Lib/images/command-shell-2.png" width="300"/>](./Lib/images/command-shell-2.png)
 
 ### How to setup ?
 
@@ -33,7 +33,8 @@ In order to do that, first you need to edit the ``param.txt`` text file, add the
 [Invite your bot](https://discordpy.readthedocs.io/en/stable/discord.html#inviting-your-bot) on your server.\
 
 Run ``initialize-terminal.py``. If you followed the steps before, your bot should send a message in your futur terminal channel.\
-![first-bot-message](./Lib/images/initilisation.png)\
+
+[<img src="./Lib/images/initilisation.png" width="600"/>](./Lib/images/initilisation.png)\
 Simply copy the id of his message and finish to edit the ``param.txt`` file. You still can check the [param-example.txt](./param-example.txt).\
 
 You are done initilazing !
