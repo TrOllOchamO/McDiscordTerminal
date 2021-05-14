@@ -5,7 +5,7 @@ A way to interact with your minecraft server terminal from discord
 
 Once installed simply go to your terminal discord channel and type your commands directly in the chat like this :
 
-#### there is 4 commands :  
+#### There is 4 commands :  
 ``!m [your minecraft command]``\
 ``!s [your shell command]``\
 ``!tm`` *display the minecraft terminal*\
@@ -18,8 +18,8 @@ Once installed simply go to your terminal discord channel and type your commands
 
 #### 1) Requirements
 You must have : 
-1. [python](https://www.python.org/), [screen](https://linuxize.com/post/how-to-use-linux-screen/) and [Watchdog](https://github.com/gorakhargosh/watchdog) installed on your server.
-2. a discord bot account, if you dont have one yet go to the [discord developper portal](https://discord.com/developers/docs/intro) and [create one](https://discordpy.readthedocs.io/en/stable/discord.html).
+1. [Python](https://www.python.org/) with the [Watchdog](https://github.com/gorakhargosh/watchdog) and [discord.py](https://pypi.org/project/discord.py/) libraries and [screen](https://linuxize.com/post/how-to-use-linux-screen/) all installed on your server.
+2. A discord bot account, if you dont have one yet go to the [discord developper portal](https://discord.com/developers/docs/intro) and [create one](https://discordpy.readthedocs.io/en/stable/discord.html).
 
 #### 2) Download
 
